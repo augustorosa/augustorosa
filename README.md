@@ -34,7 +34,7 @@ Augusto lives in the Greater Toronto Area.
   * [Welcome to Archetype's New Technical Blog](https://blog.augustorosa.com/) - Archetype's Technical Thought Leadership Blog exploring AI/ML, Data, Cloud, and Analytics
 
 ## Community Involvement
-s
+
 * 🎤 **Co-organizer** - Snowflake User Group Toronto
 * 🎓 **Mentor** - Rogers Cybersecure Catalyst at Toronto Metropolitan University
 * 🏆 **Awards** - Snowflake Data Superhero & SME
