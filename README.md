@@ -5,7 +5,6 @@
 * 😄 My pronouns are: He/His/Him
 * 🔭 I'm currently working on Snowflake, systems architecture, security solutions, and video streaming platforms. That means...
   * 👯 I'm looking to collaborate and create content that helps the community
-  * 🏢 Building innovative solutions through my consulting business **Infostrux Solutions**
   * 🎯 Architecting scalable, secure systems across cloud and streaming platforms
 * 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/augustorosa/) | [Blog](https://blog.augustorosa.com/)
 * ⚡ Fun fact about me: I love reading science fiction, crime novels, and non-fiction when I'm not writing technical articles or watching soccer ⚽
