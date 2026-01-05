@@ -20,17 +20,9 @@ Having worked in large sized companies, incubators, startups, he loves to mentor
 Augusto lives in the Greater Toronto Area.
 
 ## Recent Technical Blogs
+<!-- recent-blog-posts start -->
 
-* **Snowflake Builders Blog**
-  * [Snowflake Security — Service Accounts](https://blog.augustorosa.com/) - Learn about how designate User Accounts as Services Accounts for an Improved Security Posture
-  * [Snowflake Architecture Series: A Foundational Checklist](https://blog.augustorosa.com/) - Your Go‑To Guide for Snowflake Architecture, Security, and Maturity Basics
-  * [An Overview of Snowflake Openflow Services: A Hosted Integration Service](https://blog.augustorosa.com/) - Mastering Data Integration: Syncing Diverse Sources to Snowflake Raw Tables with OpenFlow
-  * [New Passwordless Configuration: Configuring Single Sign‑On (SSO) from Power BI to Snowflake](https://blog.augustorosa.com/) - Steps to configure Single Sign-On (SSO) from Power BI to Snowflake using Microsoft Entra ID
-  * [Enhance Snowflake data governance through automated descriptions with Snowflake Cortex](https://blog.augustorosa.com/) - Improve Snowflake data governance through automated descriptions of database objects
-
-* **Archetype Consulting**
-  * [The Unofficial Snowflake Monthly Release Notes](https://blog.augustorosa.com/) - Monthly Snowflake Unofficial Release Notes covering new features, previews, clients, and behavior changes
-  * [Welcome to Archetype's New Technical Blog](https://blog.augustorosa.com/) - Archetype's Technical Thought Leadership Blog exploring AI/ML, Data, Cloud, and Analytics
+<!-- recent-blog-posts end -->
 
 ## Community Involvement
 
