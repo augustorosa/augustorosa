@@ -1,23 +1,47 @@
-# Hello, I am Augusto Rosa 👋
+# Hi, I'm Augusto Rosa 👋
 
-### Thank you for stopping by. Here's a little bit about myself...
+Head of Data, Cloud & Security Architecture at **Archetype Consulting**, author of **[Advanced Snowflake Data Engineering](https://www.packtpub.com/en-us/product/advanced-snowflake-data-engineering-9781807608729)** (Packt), and 3x **Snowflake Data Superhero**. I live in the Greater Toronto Area and spend most of my time helping teams build Snowflake platforms that hold up once real users show up.
 
-* 😄 My pronouns are: He/His/Him
-* 🔭 I'm currently working on Snowflake, systems architecture, security solutions, and video streaming platforms. That means...
-  * 👯 I'm looking to collaborate and create content that helps the community
-  * 🎯 Architecting scalable, secure systems across cloud and streaming platforms
-* 📫 Here's how you can reach me: [LinkedIn](https://www.linkedin.com/in/augustorosa/) | [Blog](https://blog.augustorosa.com/)
-* ⚡ Fun fact about me: I love reading science fiction, crime novels, and non-fiction when I'm not writing technical articles or watching soccer ⚽
+🏆 **2026 Technical Educator of the Year (Americas), Snowflake Community Awards** | [Watch the ceremony](https://youtu.be/wQIy7wS-MlU) | [About the awards](https://www.snowflake.com/en/community-awards/)
+
+* 😄 Pronouns: He/Him
+* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/augustorosa/) or read my [blog](https://blog.augustorosa.com/)
+* ⚡ Fun fact: when I'm not writing about Snowflake, I'm reading science fiction, crime novels, or non-fiction, or watching soccer ⚽
+
+## 📘 My Book
+
+<a href="https://www.packtpub.com/en-us/product/advanced-snowflake-data-engineering-9781807608729"><b>Advanced Snowflake Data Engineering</b></a> (Packt Publishing)
+
+The book is for data engineers who already know their way around Snowflake and want to run it well in production. Among other topics, it covers role hierarchies and access design, governance with Horizon, and deploying Snowflake objects as code.
+
+👉 [Get it from Packt](https://www.packtpub.com/en-us/product/advanced-snowflake-data-engineering-9781807608729)
+
+## What I'm Working On
+
+* Snowflake architecture, security and governance work for clients at Archetype Consulting
+* AI on the data platform: Cortex, Snowflake Intelligence and Cortex Code
+* *The Unofficial Snowflake Monthly Release Notes*, published every month on Medium
+* Talks for user groups and conferences, most recently at ODSC AI in Montreal (November 2026)
 
 ## About Me
 
-Augusto worked in technology for over 20 years and brings a hands-on approach to driving innovation in software, data, systems architecture, security, and video streaming platforms. He is a known thought leader in the Snowflake ecosystem having been awarded the **Snowflake Data Superhero** and **SME awards**.
+I've worked in technology for more than 20 years across software, data, systems architecture, security and video streaming. Before consulting, I spent years driving public cloud adoption at companies like Shaw, Rogers, Indigo, Torstar, Yellow Pages and shomi.
 
-Augusto started his consulting career 8 years ago at Slalom Consulting Global engineering organization and then spent the last 4 years building a startup consulting business focused on Snowflake, **Infostrux Solutions**, currently leading the engineering teams at **Archetype Consulting**. He also spent much of the last 15 years driving public cloud adoption in different industries, both in product companies and consulting.
+I started my consulting career at Slalom, then spent four years building **Infostrux Solutions**, a Snowflake-focused consultancy. Today I lead data, cloud and security architecture at **Archetype Consulting**.
 
-Having worked in large sized companies, incubators, startups, he loves to mentor and participate in the community, currently **co-organizing Snowflake User Group in Toronto**, and serves as a mentor at the **Rogers Cybersecure Catalyst** at the Toronto Metropolitan University for Cybersecurity and fintech startups in the Canadian ecosystem.
+I like teaching as much as building. That shows up in the book, the blog, the Toronto Snowflake User Group, and mentoring founders at the Rogers Cybersecure Catalyst.
 
-Augusto lives in the Greater Toronto Area.
+## Recognition
+
+* 🏆 **Technical Educator of the Year, Americas (2026)**, inaugural Snowflake Community Awards, chosen from more than 700 nominations across 30+ countries
+* ❄️ **Snowflake Data Superhero** (3x)
+* 🎓 **SnowPro certified** and a subject matter expert (SME) for the SnowPro certification program
+
+## Community
+
+* 🎤 **Co-organizer**, Toronto Snowflake User Group
+* 🎓 **Mentor**, Rogers Cybersecure Catalyst at Toronto Metropolitan University (cybersecurity and fintech startups)
+* ✍️ **Writer**, [blog.augustorosa.com](https://blog.augustorosa.com/) and the Snowflake Builders Blog
 
 ## Recent Technical Blogs
 <!-- recent-blog-posts start -->
@@ -34,34 +58,23 @@ _Auto-updated daily from Medium_
 
 <!-- recent-blog-posts end -->
 
-## Community Involvement
+## Featured Repos
 
-* 🎤 **Co-organizer** - Snowflake User Group Toronto
-* 🎓 **Mentor** - Rogers Cybersecure Catalyst at Toronto Metropolitan University
-* 🏆 **Awards** - Snowflake Data Superhero & SME
+* **[cortex-snowflake-account-security-agent](https://github.com/augustorosa/cortex-snowflake-account-security-agent)**: a Snowflake Intelligence agent that correlates security feeds (CloudTrail, Cloudflare, CrowdStrike, Kubernetes audit, npm supply chain and Snowflake `ACCOUNT_USAGE`) through one semantic view
 
-## Professional Experience
+## Expertise
 
-* 💼 **Founder** - Infostrux Solutions (Snowflake-focused consulting, 4+ years)
-* ☁️ **Cloud Advocate** - 15+ years driving public cloud adoption across industries
-* 🚀 **Startup Experience** - Worked in large companies, Shaw, Rogers, Indigo Books, Torstar, Yellow Pages, and startups, shomi, Infostrux Solutions, 
-* 🚀 **Consulting Leadership Experience** - Worked at Slalom Consulting, Archetype Consulting and Infostrux Consulting
+* **Snowflake**: architecture, security, governance, performance and cost
+* **Data engineering**: ELT, dimensional modeling (Kimball), dbt, migrations to Snowflake
+* **AI on the data platform**: Cortex, Snowflake Intelligence, agents
+* **Security**: data security, security architecture, compliance
+* **Cloud**: AWS, Azure, GCP, Terraform
+* **Systems and streaming**: distributed systems, video streaming platforms, content delivery
 
-## Expertise Areas
+## Let's Connect
 
-* **Snowflake Data Cloud** - Architecture, Security, Governance, Performance
-* **Systems Architecture** - Enterprise architecture, Scalable systems design, Microservices
-* **Security** - Cybersecurity, Data Security, Compliance, Security architecture
-* **Video Streaming** - Streaming platforms, Media processing, Content delivery systems
-* **Cloud Platforms** - AWS, Azure, GCP
-* **Data Engineering** - ETL/ELT, Data Warehousing, Data Lakes
-* **Software Development** - Full-stack development, Distributed systems
-* **Consulting** - Solution architecture, Digital transformation
-
-## Let's Connect!
-
-I'm always interested in connecting with fellow data professionals, Snowflake enthusiasts, and anyone passionate about technology innovation. Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/augustorosa/) or check out my latest thoughts on [my blog](https://blog.augustorosa.com/).
+I'm always happy to talk with data engineers, Snowflake practitioners and anyone building something interesting. Find me on [LinkedIn](https://www.linkedin.com/in/augustorosa/), read [my blog](https://blog.augustorosa.com/), or pick up [the book](https://www.packtpub.com/en-us/product/advanced-snowflake-data-engineering-9781807608729).
 
 ---
 
-*"Driving innovation through hands-on expertise in data, cloud, and security"* 
+*"Driving innovation through hands-on expertise in data, cloud, and security"*
